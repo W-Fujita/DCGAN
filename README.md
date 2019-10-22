@@ -27,7 +27,8 @@ DCGANはGANの構造と同様ですが、2つのモデルにCNNを適用する�
 
 ## 実行結果
 ![generated](./DCGAN.gif)  
-64個分の数字の画像を20回分学習した結果をgif形式で表示しています。  
+64個分の数字の画像を20回分学習した結果をgif形式で表示しています。
+
 ![Loss](./Loss.jpg)  
 DiscriminatorとGeneratorの損失値を示しています。
 468(iteration/epoch)としています。
